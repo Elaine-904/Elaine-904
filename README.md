@@ -1,11 +1,5 @@
-<div aligh="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align = "center"/>
-</div>
-
-<div aligh="center">
-  <img  height="30px"  width="30px" aligh="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> hey there! i am Elaine, welcome to my github :)
-</div>
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align = "center"/>
+<img  height="30px"  width="30px" aligh="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> hey there! i am Elaine, welcome to my github :)
 
 
 -----
