@@ -1,5 +1,5 @@
 ##  :dark_sunglasses: About me  :
-<img  height="30px"  width="30px" aligh="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />  hey there! i am Elaine, welcome to my github :) I am a front-end full stack Developer in NewZealand.
+<img  height="30px"  width="30px" aligh="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />  hey there! i am Elaine, welcome to my github :) 
 *  :woman_technologist: I am working as a freelancer developer and full-stack software developer at the same time. 
 *  :crystal_ball: In my free time, i posts tech blogs on substack.
 *  :cat: I have a kitty, who is 4 years old now.  :dog: And a dog who is 8 month.
